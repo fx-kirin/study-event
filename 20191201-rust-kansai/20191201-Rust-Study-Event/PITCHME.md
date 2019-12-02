@@ -1,41 +1,5 @@
 # Pythonista が Rust を使ってハマった点
 
-2019-12-01 Rust Kansai
-
----
-
-## 自己紹介
-
-大野 大阪の自営業のプログラマ
-
-- Python 歴 5年
-- C / C++ 歴 8年
-- Ruby歴 2年
-
-Python でのデータ解析と自動化が主な仕事
-
----
-
-## 勉強会主催してます．
-
----
-
-## Osaka Python User Group in English
-
-英語で話す Python の勉強会．
-
-PyMCの勉強会で会った外国人と開催
-
-Python Rust Binding について次回発表予定
-
-2019-12-13 (金) 19:00 本町にて． meetup や connpass で公開中
-
----
-
-## Financial Python
- - クローズドな金融の勉強会
- - 先日三周年を迎えました．
-
 ---
 
 @snap[span-30 north]
