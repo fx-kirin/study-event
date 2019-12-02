@@ -3,7 +3,7 @@
 ---
 
 @snap[span-30 north]
-![Logo](20191201-Rust-Study-Event/assets/img/programming_rust.jpg)
+![Logo](https://raw.githubusercontent.com/fx-kirin/study-event/master/20191201-rust-kansai/20191201-Rust-Study-Event/assets/img/programming_rust.jpg)
 @snapend
 
 @snap[south span-100]
@@ -19,7 +19,7 @@
 ---
 
 @snap[span-30 north]
-![Logo](20191201-Rust-Study-Event/assets/img/rust-cycling.jpg)
+![Logo](https://raw.githubusercontent.com/fx-kirin/study-event/master/20191201-rust-kansai/20191201-Rust-Study-Event/assets/img/rust-cycling.jpg)
 @snapend
 
 @snap[south span-100]
@@ -218,7 +218,7 @@ impl Dog {
 ---
 
 @snap[span-100]
-![Rust Code](20191201-Rust-Study-Event/assets/img/Selection_047.png)
+![Rust Code](https://raw.githubusercontent.com/fx-kirin/study-event/master/20191201-rust-kansai/20191201-Rust-Study-Event/assets/img/Selection_047.png)
 @snapend
 
 ### Mutiple borrowing error
@@ -360,7 +360,7 @@ fn main() {
 ---
 
 @snap[span-100]
-![Rust Code](20191201-Rust-Study-Event/assets/img/Selection_048.png)
+![Rust Code](https://raw.githubusercontent.com/fx-kirin/study-event/master/20191201-rust-kansai/20191201-Rust-Study-Event/assets/img/Selection_048.png)
 @snapend
 
 ### Mutiple borrowing error
